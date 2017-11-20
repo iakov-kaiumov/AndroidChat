@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Penguin</string>
+    <string name="action_new_account">Создать аккаунт</string>
+    <string name="action_register">Зарегестрироваться</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="avatar_change_label">Сменить аватар</string>
+    <string name="cancel_title">Отмена</string>
+    <string name="close_label">Закрыть</string>
+    <string name="connecting_label">Подключение…</string>
+    <string name="delete_label">Удалить</string>
+    <string name="dialogs_label">Диалоги</string>
+    <string name="empty_dialogs_list">У вас еще нет диалогов.
+        Используйте поиск,
+        чтобы найти своих друзей</string>
+    <string name="error_field_required">Это поле обязательно</string>
+    <string name="error_incorrect_data">Неверные логин или пароль</string>
+    <string name="error_invalid_email">Недопустимый логин</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_network">Сетевая ошибка</string>
+    <string name="error_title">Ошибка</string>
+    <string name="error_user_exist">Логин уже существует</string>
+    <string name="gallery_label">Галлерея</string>
+    <string name="income_call_label">"Звонок от "</string>
+    <string name="income_message_label">"Сообщение от "</string>
+    <string name="logout_label">Выйти</string>
+    <string name="message_input_hint">Ваше сообщение</string>
+    <string name="offline_label">Оффлайн</string>
+    <string name="ok_title">Ок</string>
+    <string name="online_label">Онлайн</string>
+    <string name="outcome_call_label">"Звонок "</string>
+    <string name="open_label">Открыть</string>
+    <string name="password_label">Пароль</string>
+    <string name="permission_denied_by_user">Вы не можете использовать это приложение без подтверждения разрешений</string>
+    <string name="pref_header_general">Основные</string>
+    <string name="pref_header_notifications">Уведомления</string>
+    <string name="pref_ringtone_silent">Тихо</string>
+    <string name="pref_title_image_quality">Качество картинки</string>
+    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_title_vibrate">Вибрация</string>
+    <string name="prompt_login">Логин</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="take_photo_label">Фото</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="uploading_label">Загрузка…</string>
+    <string name="user_offline">Пользователь не в сети</string>
+    <string name="copy_text">Скопировать</string>
+    <string name="copy_successful">Текст скопирован</string>
+    <string name="attachment_label">Прикрепление:</string>
+    <string name="on_secret_chat_create">"Секретный чат создан c "</string>
+    <string name="on_answer_wait">Ожидание ответа...</string>
+</resources>
